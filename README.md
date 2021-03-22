@@ -10,7 +10,7 @@ Starting with an incomplete board:
      b. If it is not valid, reset the square you just filled and go back to the previous step.
   5. Once the board is full by the definition of this algorithm we have found a solution.
 
-Also what I have done extra is I have added graphic user interface to make it even more interesting now in order for the GUI to run on your computer you should have "pygame" on your desktop, in case you don't have just run the command
+Also what I have done extra is I have added graphic user interface to make it even more interesting now in order for the GUI to run on your computer you should have "pygame" on your desktop, in case you don't have just run the command on your command prompt
  
 pip install pygame
 
